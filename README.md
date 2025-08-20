@@ -1,2 +1,1 @@
-# lipid-calculator
 # updateMol2
